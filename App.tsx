@@ -38,7 +38,7 @@ const App: React.FC = () => {
             className={buttonClassName}
           />
           <ActionButton
-            href="https://blank.page/"
+            href="https://forms.gle/3TzwkApgor7xzU2W8"
             text="LinkedIn Webinar Registration"
             icon={<LinkedInIcon />}
             className={buttonClassName}
